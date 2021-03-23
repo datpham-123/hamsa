@@ -1,0 +1,14 @@
+{
+  "name": "fashion88",
+  "version": "1.0.0",
+  "description": "Fashion88 Home Page",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "Dat Pham",
+  "license": "MIT",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
+}

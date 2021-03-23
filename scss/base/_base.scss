@@ -1,0 +1,26 @@
+html {
+  font-size: 62.5%;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+body {
+  max-width: $width;
+  max-height: $height;
+  background-color: $color-secondary;
+}
+
+img {
+  display: inline-block;
+  width: 100%;
+  object-fit: cover;
+}
+
+a {
+  text-decoration: none;
+  color: $color-primary;
+}

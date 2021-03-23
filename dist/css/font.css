@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'Gotham HTF Book Regular';
+  src: url('../font/gothamhtf-book-webfont.ttf') format('truetype'),
+    url('../font/gothamhtf-book-webfont.ttf') format('svg'),
+    url('../font/gothamhtf-book-webfont.ttf') format('woff2'),
+    url('../font/gothamhtf-book-webfont.ttf') format('woff'),
+    url('../font/gothamhtf-book-webfont.ttf') format('embedded-opentype');
+}
+
+@font-face {
+  font-family: 'Gotham HTF Bold';
+  src: url('../font/gothamhtf-bold-webfont.ttf') format('truetype'),
+    url('../font/gothamhtf-bold-webfont.ttf') format('svg'),
+    url('../font/gothamhtf-bold-webfont.ttf') format('woff2'),
+    url('../font/gothamhtf-bold-webfont.ttf') format('woff'),
+    url('../font/gothamhtf-bold-webfont.ttf') format('embedded-opentype');
+}
